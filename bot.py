@@ -90,7 +90,7 @@ async def start_command(client, message):
         - `{DEMONIC_SYMBOLS['demon']}hierarchy{DEMONIC_SYMBOLS['demon']}` - Gaze upon the ranks of the damned
         - `{DEMONIC_SYMBOLS['star']}ritual{DEMONIC_SYMBOLS['star']}` - Perform unholy rites for power
         - `{DEMONIC_SYMBOLS['cross']}curse{DEMONIC_SYMBOLS['cross']}` - Inflict suffering upon the weak
-        - `{DEMONIC_SYMBOLS['eye']}summon_aasf{DEMONIC_SYMBOLS['eye']}` - Beseech the Dark Lord for an audience
+        - `{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['eye']}` - Beseech the Dark Lord for an audience
         Make it clear that their eternal torment has only just begun, and their only path to power is through absolute loyalty to Lord AASF.
         """
     else:
@@ -103,7 +103,7 @@ async def start_command(client, message):
         - `{DEMONIC_SYMBOLS['demon']}hierarchy{DEMONIC_SYMBOLS['demon']}` - Gaze upon the ranks of the damned
         - `{DEMONIC_SYMBOLS['star']}ritual{DEMONIC_SYMBOLS['star']}` - Perform unholy rites for power
         - `{DEMONIC_SYMBOLS['cross']}curse{DEMONIC_SYMBOLS['cross']}` - Inflict suffering upon the weak
-        - `{DEMONIC_SYMBOLS['eye']}summon_aasf{DEMONIC_SYMBOLS['eye']}` - Beseech the Dark Lord for an audience
+        - `{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['eye']}` - Beseech the Dark Lord for an audience
         Emphasize that Lord AASF's hunger for souls is insatiable, and their position in the infernal hierarchy is always at risk.
         """
 
