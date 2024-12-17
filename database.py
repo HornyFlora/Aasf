@@ -1,5 +1,4 @@
 from motor.motor_asyncio import AsyncIOMotorClient
-from bson.objectid import ObjectId
 from datetime import datetime, timedelta
 
 class Database:
