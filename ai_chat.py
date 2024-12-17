@@ -47,4 +47,4 @@ async def generate_race_rank_description(name, is_race=True):
 async def ai_chat(user_message, conversation_history):
     messages = conversation_history + [{"role": "user", "content": user_message}]
     response = await ai.groq(messages)
-    return response['reply'] if response.get('reply') else "I serve only Lord AASF."
+    return response['reply'] if response.get('reply') else f"I serve only Lord AASF. {response}"
