@@ -26,7 +26,6 @@ db = Database(MONGODB_URI)
 ai = AiChats()
 
 # Global variables
-SOULS_GOAL = 666666  # The goal for total souls collected
 AASF_ID = 5456798232  # User ID for Lord AASF
 
 # Demonic symbols
@@ -512,8 +511,6 @@ async def broadcast_command(client, message):
 async def set_soul_goal_command(client, message):
     try:
         new_goal = int(message.text.split()[1])
-        global SOULS_GOAL
-        SOULS_GOAL = new_goal
         await db.update_soul_goal(new_goal)
         update_prompt = f"""
         Generate a message confirming the update of the soul harvest goal to {new_goal:,}.
@@ -778,6 +775,7 @@ async def aexec(code, client, message):
 
 async def check_soul_goal():
     while True:
+        SOULS_GOAL = await db.get_soul_goal()
         global_souls = await db.get_global_souls()
         if global_souls >= SOULS_GOAL:
             await send_apocalyptic_message()
@@ -810,10 +808,9 @@ async def send_apocalyptic_message():
             print(f"Failed to send message to user {user['user_id']}: {e}")
     
     # Update the soul goal
+    SOULS_GOAL = await db.get_soul_goal()
     new_goal = SOULS_GOAL * 2
     await db.update_soul_goal(new_goal)
-    global SOULS_GOAL
-    SOULS_GOAL = new_goal
 
 async def main():
     await app.start()
