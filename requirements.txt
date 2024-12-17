@@ -3,6 +3,5 @@ datetime
 pyrogram 
 tgcrypto
 motor
-bson
 pymongo
 shortuuid
