@@ -6,6 +6,13 @@ class Database:
     def __init__(self, uri):
         self.client = AsyncIOMotorClient(uri)
         self.db = self.client.demon_lord_bot
+        self.default_soul_goal = 666666  # Default soul goal
+        self.initialize_soul_goal()
+
+    async def initialize_soul_goal(self):
+        existing_goal = await self.get_soul_goal()
+        if existing_goal == 0:
+            await self.update_soul_goal(self.default_soul_goal)
 
     async def get_user(self, user_id):
         return await self.db.users.find_one({"user_id": user_id})
@@ -57,6 +64,10 @@ class Database:
             {"$set": {"goal": new_goal, "updated_at": datetime.utcnow()}},
             upsert=True
         )
+
+    async def get_soul_goal(self):
+        stats = await self.db.global_stats.find_one({"_id": "soul_goal"})
+        return stats['goal'] if stats else 0
 
     async def get_user_referrals(self, user_id):
         user = await self.get_user(user_id)
