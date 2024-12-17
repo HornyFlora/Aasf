@@ -1,0 +1,6 @@
+aiohttp
+datetime
+pyrogram 
+tgcrypto
+motor
+bson
