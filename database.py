@@ -6,7 +6,9 @@ class Database:
         self.client = AsyncIOMotorClient(uri)
         self.db = self.client.demon_lord_bot
         self.default_soul_goal = 666666  # Default soul goal
-        self.initialize_soul_goal()
+
+    async def initialize(self):
+        await self.initialize_soul_goal()
 
     async def initialize_soul_goal(self):
         existing_goal = await self.get_soul_goal()
