@@ -11,6 +11,7 @@ from contextlib import redirect_stdout, redirect_stderr
 from subprocess import getoutput as run
 from database import Database
 import shortuuid
+from pyrogram import idle
 from ai_chat import AiChats, generate_demon_name, generate_race_rank_description, ai_chat
 
 # Replace these with your own values
