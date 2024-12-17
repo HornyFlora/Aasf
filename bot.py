@@ -90,7 +90,7 @@ async def start_command(client, message):
         - `{DEMONIC_SYMBOLS['demon']}hierarchy{DEMONIC_SYMBOLS['demon']}` - Gaze upon the ranks of the damned
         - `{DEMONIC_SYMBOLS['star']}ritual{DEMONIC_SYMBOLS['star']}` - Perform unholy rites for power
         - `{DEMONIC_SYMBOLS['cross']}curse{DEMONIC_SYMBOLS['cross']}` - Inflict suffering upon the weak
-        - `{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['eye']}` - Beseech the Dark Lord for an audience
+        - `{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['goat']}` - Beseech the Dark Lord for an audience
         Make it clear that their eternal torment has only just begun, and their only path to power is through absolute loyalty to Lord AASF.
         """
     else:
@@ -103,7 +103,7 @@ async def start_command(client, message):
         - `{DEMONIC_SYMBOLS['demon']}hierarchy{DEMONIC_SYMBOLS['demon']}` - Gaze upon the ranks of the damned
         - `{DEMONIC_SYMBOLS['star']}ritual{DEMONIC_SYMBOLS['star']}` - Perform unholy rites for power
         - `{DEMONIC_SYMBOLS['cross']}curse{DEMONIC_SYMBOLS['cross']}` - Inflict suffering upon the weak
-        - `{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['eye']}` - Beseech the Dark Lord for an audience
+        - `{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['goat']}` - Beseech the Dark Lord for an audience
         Emphasize that Lord AASF's hunger for souls is insatiable, and their position in the infernal hierarchy is always at risk.
         """
 
@@ -325,7 +325,7 @@ async def curse_command(client, message):
     else:
         await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt casting a curse without first pledging themselves to Lord AASF's unholy cause.", user_id), parse_mode="Markdown")
 
-@app.on_message(filters.command("summon_aasf") | filters.regex(f"^{DEMONIC_SYMBOLS['eye']}summon_aasf{DEMONIC_SYMBOLS['eye']}$"))
+@app.on_message(filters.command("summon_aasf") | filters.regex(f"^{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['goat']}$"))
 async def summon_aasf_command(client, message):
     user_id = message.from_user.id
     user = await db.get_user(user_id)
