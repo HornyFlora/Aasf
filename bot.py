@@ -773,13 +773,15 @@ async def aexec(code, client, message):
     )
     return await locals()["__aexec"](client, message)
 
-async def check_soul_goal():
+async def check_and_update_soul_goal():
     while True:
-        SOULS_GOAL = await db.get_soul_goal()
-        global_souls = await db.get_global_souls()
-        if global_souls >= SOULS_GOAL:
-            await send_apocalyptic_message()
-            break
+        # Get the current soul goal from the database
+        current_goal = await db.get_soul_goal()
+        
+        # If the goal is not set, initialize it (this should not happen if initialized correctly)
+        if current_goal == 0:
+            await db.update_soul_goal(666666)  # Set to default if not set
+        
         await asyncio.sleep(3600)  # Check every hour
 
 async def send_apocalyptic_message():
@@ -815,8 +817,10 @@ async def send_apocalyptic_message():
 async def main():
     await app.start()
     print(f"{DEMONIC_SYMBOLS['fire']} The gates of hell have been thrown wide. Lord AASF's unholy bot awakens... {DEMONIC_SYMBOLS['fire']}")
-    asyncio.create_task(check_soul_goal())
+    
+    asyncio.create_task(check_and_update_soul_goal())
+    
     await idle()
-
+    
 if __name__ == "__main__":
     app.run(main())
