@@ -12,6 +12,7 @@ from subprocess import getoutput as run
 from database import Database
 import shortuuid
 from pyrogram import idle
+from pyrogram.enums import ParseMode
 from ai_chat import AiChats, generate_demon_name, generate_race_rank_description, ai_chat
 
 # Replace these with your own values
@@ -110,7 +111,7 @@ async def start_command(client, message):
 
     welcome_message = await generate_ai_response(welcome_prompt, user_id)
     
-    await message.reply_text(welcome_message, parse_mode="Markdown")
+    await message.reply_text(welcome_message, parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("status") | filters.regex(f"^{DEMONIC_SYMBOLS['pentagram']}status{DEMONIC_SYMBOLS['pentagram']}$"))
 async def status_command(client, message):
@@ -133,9 +134,9 @@ async def status_command(client, message):
         Make it clear that their very existence is a testament to Lord AASF's dark power.
         """
         status_text = await generate_ai_response(status_prompt, user_id)
-        await message.reply_text(status_text, parse_mode="Markdown")
+        await message.reply_text(status_text, parse_mode=ParseMode.MARKDOWN)
     else:
-        await message.reply_text(await generate_ai_response("Generate a message for a pathetic mortal who hasn't yet pledged their soul to Lord AASF. Make it clear that their continued existence outside the legion is an affront to the forces of darkness.", user_id), parse_mode="Markdown")
+        await message.reply_text(await generate_ai_response("Generate a message for a pathetic mortal who hasn't yet pledged their soul to Lord AASF. Make it clear that their continued existence outside the legion is an affront to the forces of darkness.", user_id), parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("harvest") | filters.regex(f"^{DEMONIC_SYMBOLS['skull']}harvest{DEMONIC_SYMBOLS['skull']}$"))
 async def harvest_souls_command(client, message):
@@ -154,7 +155,7 @@ async def harvest_souls_command(client, message):
             Emphasize that their own soul may be forfeit if they don't improve their performance immediately.
             """
             response = await generate_ai_response(failure_prompt, user_id)
-            await message.reply_text(response, parse_mode="Markdown")
+            await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
             return
         
         await db.increment_user_stats(user_id, {"souls_collected": souls_collected})
@@ -180,7 +181,7 @@ async def harvest_souls_command(client, message):
             """
             response = await generate_ai_response(harvest_prompt, user_id)
         
-        await message.reply_text(response, parse_mode="Markdown")
+        await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
         
         # Notify AASF
         aasf_notify_prompt = f"""
@@ -192,9 +193,9 @@ async def harvest_souls_command(client, message):
         Make it clear and concise, yet maintain an air of dread and malevolence befitting the Demon King's status.
         """
         aasf_response = await generate_ai_response(aasf_notify_prompt)
-        await app.send_message(AASF_ID, aasf_response, parse_mode="Markdown")
+        await app.send_message(AASF_ID, aasf_response, parse_mode=ParseMode.MARKDOWN)
     else:
-        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt soul harvesting without first pledging themselves to Lord AASF's unholy cause.", user_id), parse_mode="Markdown")
+        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt soul harvesting without first pledging themselves to Lord AASF's unholy cause.", user_id), parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("hierarchy") | filters.regex(f"^{DEMONIC_SYMBOLS['demon']}hierarchy{DEMONIC_SYMBOLS['demon']}$"))
 async def hellish_hierarchy_command(client, message):
@@ -217,7 +218,7 @@ async def hellish_hierarchy_command(client, message):
     """
     leaderboard_text = await generate_ai_response(hierarchy_prompt)
     
-    await message.reply_text(leaderboard_text, parse_mode="Markdown")
+    await message.reply_text(leaderboard_text, parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("ritual") | filters.regex(f"^{DEMONIC_SYMBOLS['star']}ritual{DEMONIC_SYMBOLS['star']}$"))
 async def dark_ritual_command(client, message):
@@ -237,7 +238,7 @@ async def dark_ritual_command(client, message):
             Suggest ominous ways they can prepare for their next attempt.
             """
             response = await generate_ai_response(cooldown_prompt, user_id)
-            await message.reply_text(response, parse_mode="Markdown")
+            await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
             return
         
         ritual_power = random.randint(1, 10)
@@ -259,7 +260,7 @@ async def dark_ritual_command(client, message):
         Conclude with a reminder that each ritual brings Lord AASF's ultimate victory closer to fruition.
         """
         response = await generate_ai_response(ritual_prompt, user_id)
-        await message.reply_text(response, parse_mode="Markdown")
+        await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
         
         # Notify AASF
         aasf_notify_prompt = f"""
@@ -271,9 +272,9 @@ async def dark_ritual_command(client, message):
         Make it clear and concise, yet maintain an air of dread and malevolence befitting the Demon King's status.
         """
         aasf_response = await generate_ai_response(aasf_notify_prompt)
-        await app.send_message(AASF_ID, aasf_response, parse_mode="Markdown")
+        await app.send_message(AASF_ID, aasf_response, parse_mode=ParseMode.MARKDOWN)
     else:
-        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt a dark ritual without first pledging themselves to Lord AASF's unholy cause.", user_id), parse_mode="Markdown")
+        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt a dark ritual without first pledging themselves to Lord AASF's unholy cause.", user_id), parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("curse") | filters.regex(f"^{DEMONIC_SYMBOLS['cross']}curse{DEMONIC_SYMBOLS['cross']}$"))
 async def curse_command(client, message):
@@ -290,7 +291,7 @@ async def curse_command(client, message):
             Remind them of the consequences of remaining weak in Lord AASF's legion.
             """
             response = await generate_ai_response(insufficient_prompt, user_id)
-            await message.reply_text(response, parse_mode="Markdown")
+            await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
             return
         
         curse_power = random.randint(1, 5)
@@ -310,7 +311,7 @@ async def curse_command(client, message):
         Conclude with a reminder that the power to curse comes at a great cost, and they must continue to prove their worth to maintain this privilege.
         """
         response = await generate_ai_response(curse_prompt, user_id)
-        await message.reply_text(response, parse_mode="Markdown")
+        await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
         
         # Notify AASF
         aasf_notify_prompt = f"""
@@ -322,9 +323,9 @@ async def curse_command(client, message):
         Make it clear and concise, yet maintain an air of dread and malevolence befitting the Demon King's status.
         """
         aasf_response = await generate_ai_response(aasf_notify_prompt)
-        await app.send_message(AASF_ID, aasf_response, parse_mode="Markdown")
+        await app.send_message(AASF_ID, aasf_response, parse_mode=ParseMode.MARKDOWN)
     else:
-        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt casting a curse without first pledging themselves to Lord AASF's unholy cause.", user_id), parse_mode="Markdown")
+        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt casting a curse without first pledging themselves to Lord AASF's unholy cause.", user_id), parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("summon_aasf") | filters.regex(f"^{DEMONIC_SYMBOLS['goat']}summon_aasf{DEMONIC_SYMBOLS['goat']}$"))
 async def summon_aasf_command(client, message):
@@ -339,7 +340,7 @@ async def summon_aasf_command(client, message):
         Warn them of the dire consequences of wasting the Demon King's time with trivial matters.
         """
         response = await generate_ai_response(summon_prompt, user_id)
-        await message.reply_text(response, parse_mode="Markdown")
+        await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
         
         # Notify AASF
         aasf_notify_prompt = f"""
@@ -354,9 +355,9 @@ async def summon_aasf_command(client, message):
             [InlineKeyboardButton("Respond to Minion", callback_data=f"respond_to_minion:{user_id}")]
         ])
         
-        await app.send_message(AASF_ID, aasf_response, reply_markup=keyboard, parse_mode="Markdown")
+        await app.send_message(AASF_ID, aasf_response, reply_markup=keyboard, parse_mode=ParseMode.MARKDOWN)
     else:
-        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt summoning Lord AASF without first pledging their soul to his unholy cause.", user_id), parse_mode="Markdown")
+        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to attempt summoning Lord AASF without first pledging their soul to his unholy cause.", user_id), parse_mode=ParseMode.MARKDOWN)
 
 @app.on_callback_query(filters.regex("^respond_to_minion:"))
 async def respond_to_minion_callback(client, callback_query):
@@ -395,7 +396,7 @@ async def handle_aasf_response(client, message):
             Conclude with a reminder of the honor bestowed upon {minion['name']} by receiving a direct communication from the Dark Lord.
             """
             enhanced_message = await generate_ai_response(aasf_message_prompt)
-            await app.send_message(minion_id, enhanced_message, parse_mode="Markdown")
+            await app.send_message(minion_id, enhanced_message, parse_mode=ParseMode.MARKDOWN)
             await message.reply_text(f"Your message has been delivered to {minion['name']} with appropriate demonic embellishments.")
         else:
             await message.reply_text("The minion's soul has been lost to the void.")
@@ -424,11 +425,11 @@ async def handle_minion_reply(client, message):
             enhanced_reply = await generate_ai_response(reply_prompt, user_id)
             
             # Forward the enhanced reply to AASF
-            await app.send_message(AASF_ID, f"Reply from {user['name']}:\n\n{enhanced_reply}", parse_mode="Markdown")
+            await app.send_message(AASF_ID, f"Reply from {user['name']}:\n\n{enhanced_reply}", parse_mode=ParseMode.MARKDOWN)
             
             await message.reply_text("Your message has been conveyed to the Dark Lord with appropriate demonic enhancements.")
         else:
-            await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to reply to Lord AASF without first pledging their soul to his unholy cause.", user_id), parse_mode="Markdown")
+            await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to reply to Lord AASF without first pledging their soul to his unholy cause.", user_id), parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.text)
 async def handle_general_message(client, message):
@@ -446,9 +447,9 @@ async def handle_general_message(client, message):
         Encourage them to continue their unholy work and spread Lord AASF's influence.
         """
         response = await generate_ai_response(response_prompt, user_id)
-        await message.reply_text(response, parse_mode="Markdown")
+        await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
     else:
-        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to speak without first pledging their soul to Lord AASF's unholy cause.", user_id), parse_mode="Markdown")
+        await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to speak without first pledging their soul to Lord AASF's unholy cause.", user_id), parse_mode=ParseMode.MARKDOWN)
 
 # Administration commands for Lord AASF (user_id: 3911)
 @app.on_message(filters.command("admin_stats") & filters.user(AASF_ID))
@@ -475,7 +476,7 @@ async def admin_stats_command(client, message):
     Make it formal, evil, and befitting of the Demon King's status.
     """
     stats_text = await generate_ai_response(stats_prompt)
-    await message.reply_text(stats_text, parse_mode="Markdown")
+    await message.reply_text(stats_text, parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("broadcast") & filters.user(AASF_ID))
 async def broadcast_command(client, message):
@@ -486,7 +487,7 @@ async def broadcast_command(client, message):
     
     for user in all_users:
         try:
-            await app.send_message(user['user_id'], broadcast_message, parse_mode="Markdown")
+            await app.send_message(user['user_id'], broadcast_message, parse_mode=ParseMode.MARKDOWN)
             successful_sends += 1
         except Exception as e:
             failed_sends += 1
@@ -506,7 +507,7 @@ async def broadcast_command(client, message):
     Make it formal, evil, and befitting of the Demon King's status.
     """
     report_text = await generate_ai_response(report_prompt)
-    await message.reply_text(report_text, parse_mode="Markdown")
+    await message.reply_text(report_text, parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("set_soul_goal") & filters.user(AASF_ID))
 async def set_soul_goal_command(client, message):
@@ -523,7 +524,7 @@ async def set_soul_goal_command(client, message):
         Make it formal, evil, and befitting of the Demon King's status.
         """
         update_text = await generate_ai_response(update_prompt)
-        await message.reply_text(update_text, parse_mode="Markdown")
+        await message.reply_text(update_text, parse_mode=ParseMode.MARKDOWN)
     except (ValueError, IndexError):
         await message.reply_text("Invalid input. Use format: `/set_soul_goal [number]`")
 
@@ -547,7 +548,7 @@ async def bless_minion_command(client, message):
             Make it formal, evil, and befitting of the Demon King's status.
             """
             bless_text = await generate_ai_response(bless_prompt)
-            await message.reply_text(bless_text, parse_mode="Markdown")
+            await message.reply_text(bless_text, parse_mode=ParseMode.MARKDOWN)
             
             minion_prompt = f"""
             Generate a message for *{user['name']}* informing them of Lord AASF's dark blessing of {souls_to_add} souls.
@@ -559,7 +560,7 @@ async def bless_minion_command(client, message):
             Make it reverent, grateful, and deeply intimidating.
             """
             minion_text = await generate_ai_response(minion_prompt)
-            await app.send_message(user_id, minion_text, parse_mode="Markdown")
+            await app.send_message(user_id, minion_text, parse_mode=ParseMode.MARKDOWN)
         else:
             await message.reply_text("The specified soul is not found in the infernal database. They may have escaped their eternal torment... for now.")
     except (ValueError, IndexError):
@@ -588,7 +589,7 @@ async def curse_minion_command(client, message):
             Make it formal, evil, and befitting of the Demon King's status.
             """
             curse_text = await generate_ai_response(curse_prompt)
-            await message.reply_text(curse_text, parse_mode="Markdown")
+            await message.reply_text(curse_text, parse_mode=ParseMode.MARKDOWN)
             
             minion_prompt = f"""
             Generate a message for *{user['name']}* informing them of Lord AASF's terrible curse, stripping them of {souls_to_remove} souls.
@@ -600,7 +601,7 @@ async def curse_minion_command(client, message):
             Make it terrifying, remorseful, and deeply intimidating.
             """
             minion_text = await generate_ai_response(minion_prompt)
-            await app.send_message(user_id, minion_text, parse_mode="Markdown")
+            await app.send_message(user_id, minion_text, parse_mode=ParseMode.MARKDOWN)
         else:
             await message.reply_text("The specified soul is not found in the infernal database. They may have escaped their eternal torment... for now.")
     except (ValueError, IndexError):
@@ -625,7 +626,7 @@ async def message_minion_command(client, message):
             Conclude with a reminder of the honor bestowed upon {user['name']} by receiving a direct communication from the Dark Lord.
             """
             enhanced_message = await generate_ai_response(aasf_message_prompt)
-            await app.send_message(user_id, enhanced_message, parse_mode="Markdown")
+            await app.send_message(user_id, enhanced_message, parse_mode=ParseMode.MARKDOWN)
             await message.reply_text(f"Your message has been delivered to {user['name']} with appropriate demonic embellishments.")
         else:
             await message.reply_text("The specified soul is not found in the infernal database. They may have escaped their eternal torment... for now.")
@@ -650,7 +651,7 @@ async def sh_command(client, message):
     """
     response = await generate_ai_response(ai_prompt)
     
-    await message.reply_text(response, parse_mode="Markdown")
+    await message.reply_text(response, parse_mode=ParseMode.MARKDOWN)
 
 @app.on_message(filters.command("eval") & filters.user(DEVS))
 async def eval_command(client, message):
@@ -700,7 +701,7 @@ async def eval_command(client, message):
                 document=out_file, caption=cmd, disable_notification=True
             )
     else:
-        await reply_to_.reply_text(response, parse_mode="Markdown")
+        await reply_to_.reply_text(response, parse_mode=ParseMode.MARKDOWN)
     
     await status_message.delete()
 
@@ -765,7 +766,7 @@ async def broadcast_command(client, message):
     """
     response = await generate_ai_response(ai_prompt)
     
-    await exmsg.edit_text(response, parse_mode="Markdown")
+    await exmsg.edit_text(response, parse_mode=ParseMode.MARKDOWN)
 
 async def aexec(code, client, message):
     exec(
@@ -806,7 +807,7 @@ async def send_apocalyptic_message():
     
     for user in all_users:
         try:
-            await app.send_message(user['user_id'], apocalypse_message, parse_mode="Markdown")
+            await app.send_message(user['user_id'], apocalypse_message, parse_mode=ParseMode.MARKDOWN)
         except Exception as e:
             print(f"Failed to send message to user {user['user_id']}: {e}")
     
