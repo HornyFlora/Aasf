@@ -30,8 +30,8 @@ AASF_ID = 5456798232  # User ID for Lord AASF
 
 # Demonic symbols
 DEMONIC_SYMBOLS = {
-    "pentagram": "⛧", "demon": "𝖉𝖊𝖒𝖔𝖓", "cross": "⸸", "star": "⛧⃝", "eye": "𓃶",
-    "fire": "🜏", "skull": "𖤐", "number": "⁶⁶⁶", "ankh": "˙𓄋", "blood": "🩸"
+    "pentagram": "⛧", "demon": "𝖉𝖊𝖒𝖔𝖓", "cross": "⸸", "star": "⛧⃝", "goat": "𓃶",
+    "fire": "🜏", "skull": " ☠︎︎", "number": "⁶⁶⁶", "ankh": "˙𓄋"
 }
 
 async def generate_ai_response(prompt, user_id=None):
