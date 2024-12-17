@@ -126,7 +126,7 @@ async def status_command(client, message):
         - Rank: {user['rank']}
         - Souls Harvested: {user['souls_collected']}
         - Cursed Souls: {user['cursed_souls']}
-        - Global Soul Harvest Progress: {global_souls}/{SOULS_GOAL}
+        - Global Soul Harvest Progress: {global_souls}/{await db.get_soul_goal()}
 
         Describe their current form and the horrific transformations they've undergone.
         Hint at the even more monstrous forms they could attain by harvesting more souls.
