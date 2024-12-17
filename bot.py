@@ -429,7 +429,7 @@ async def handle_minion_reply(client, message):
         else:
             await message.reply_text(await generate_ai_response("Generate a message of utter contempt for a mortal who dares to reply to Lord AASF without first pledging their soul to his unholy cause.", user_id), parse_mode="Markdown")
 
-@app.on_message(filters.text & ~filters.command)
+@app.on_message(filters.text & ~filters.command())
 async def handle_general_message(client, message):
     user_id = message.from_user.id
     user = await db.get_user(user_id)
