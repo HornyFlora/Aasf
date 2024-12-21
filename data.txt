@@ -636,3 +636,243 @@ INTERNET_FACILITY: YES
 GIRLS_TOILETS_COUNT: 5
 BOYS_TOILETS_COUNT: 5
 INSPECTION_VIDEO_LINK: Not provided
+
+Student Vacancy - https://vijayanarayanam.kvs.ac.in/student-vacancy/:
+
+STUDENT_VACANCY_DATA
+
+SECTION_1:
+vacancy_class: XI Science
+number_of_sections: 2
+present_enrollment: 55
+fresh_admission_available: 0
+average_enrollment_per_section: 55
+category: 0
+
+SECTION_2:
+vacancy_class: XI Science
+number_of_sections: 2
+present_enrollment: 73
+fresh_admission_available: 0
+average_enrollment_per_section: 37
+category: 0
+
+SECTION_3:
+vacancy_class: V
+number_of_sections: 2
+present_enrollment: 55
+fresh_admission_available: 0
+average_enrollment_per_section: 55
+category: 0
+
+SECTION_4:
+vacancy_class: IV
+number_of_sections: 2
+present_enrollment: 73
+fresh_admission_available: 0
+average_enrollment_per_section: 37
+category: 0
+
+SECTION_5:
+vacancy_class: III
+number_of_sections: 2
+present_enrollment: 72
+fresh_admission_available: 0
+average_enrollment_per_section: 36
+category: 0
+
+SECTION_6:
+vacancy_class: II
+number_of_sections: 2
+present_enrollment: 63
+fresh_admission_available: 0
+average_enrollment_per_section: 32
+category: 0
+
+SECTION_7:
+vacancy_class: I
+number_of_sections: 2
+present_enrollment: 63
+fresh_admission_available: 0
+average_enrollment_per_section: 32
+category: 0
+
+TC issued - https://vijayanarayanam.kvs.ac.in/tc-issued/:
+
+STUDENT_DATA:
+
+Name: A.VARSHA
+T.C. No.: 92501
+Admission No.: 3773
+Class: VI
+Father Name: G.ARIHARA SUDHAN
+Mother Name: A.MUPPIDATHI DEVI
+Date of Birth: 03/03/2014
+
+Name: A.GURUBARAN
+T.C. No.: 92500
+Admission No.: 3271
+Class: IX
+Father Name: G.ARIHARA SUDHAN
+Mother Name: A.MUPPIDATHI DEVI
+Date of Birth: 23/08/2009
+
+Name: SAHAJVEER SINGH
+T.C. No.: 92499
+Admission No.: 4464
+Class: IX
+Father Name: RUPENDER SINGH
+Mother Name: NAVNEET KAUR
+Date of Birth: 20/03/2010
+
+Name: S.VELLAPANDI
+T.C. No.: 92498
+Admission No.: 3030
+Class: X
+Father Name: SELVAKUMAR
+Mother Name: VIJAYA LAKSHMI
+Date of Birth: 18/08/2009
+
+Name: A.LAKSHMI PRIYA
+T.C. No.: 92497
+Admission No.: 4456
+Class: V
+Father Name: ALAGAR.S
+Mother Name: RAJESWARI.A
+Date of Birth: 27/05/2014
+
+Name: A.SIVASANKAR
+T.C. No.: 92496
+Admission No.: 4375
+Class: II
+Father Name: ALAGAR.S
+Mother Name: RAJESWARI.A
+Date of Birth: 15/10/2016
+
+Name: K.DHANASHVI
+T.C. No.: 92495
+Admission No.: 3943
+Class: V
+Father Name: A.KANNAN
+Mother Name: K.KALAISELVI
+Date of Birth: 14/08/2014
+
+Name: K.DINO HARISHITH
+T.C. No.: 92494
+Admission No.: 3694
+Class: VI
+Father Name: A.KANNAN
+Mother Name: K.KALAISELVI
+Date of Birth: 13/06/2013
+
+Name: R.SIBI ARAVIND
+T.C. No.: 92493
+Admission No.: 3581
+Class: IX
+Father Name: K.RAVI ABRAHAM
+Mother Name: R.SEETHA
+Date of Birth: 03/06/2010
+
+Name: K.MUTHUVEL
+T.C. No.: 92492
+Admission No.: 3265
+Class: IX
+Father Name: M.MUTHU KRISHNAN
+Mother Name: VASANTHI
+Date of Birth: 05/11/2010
+
+Name: HARSH
+T.C. No.: 92491
+Admission No.: 4515
+Class: I
+Father Name: RAVI KUMAR
+Mother Name: DEEPIKA YADAV
+Date of Birth: 22/07/2017
+
+Name: ANSHIKA
+T.C. No.: 92489
+Admission No.: 4537
+Class: I
+Father Name: ASHISH KUMAR
+Mother Name: BABY KUMARI SINGH
+Date of Birth: 13/11/2017
+
+Name: AAYUSHI SINGH
+T.C. No.: 92788
+Admission No.: 4315
+Class: V
+Father Name: ASHISH KUMAR
+Mother Name: BABY KUMARI SINGH
+Date of Birth: 18/02/2015
+
+Name: J.ESTHAK JERSON
+T.C. No.: 92487
+Admission No.: 3282
+Class: IX
+Father Name: JOHNSON
+Mother Name: BABY JOHNCY VICTORIA
+Date of Birth: 15/05/2009
+
+Name: R.SIVA YAZHINI
+T.C. No.: 92486
+Admission No.: 3580
+Class: VIII
+Father Name: K.RAVI ABRAHAM
+Mother Name: R.SEETHA
+Date of Birth: 03/10/2011
+
+Name: R.S.RITHICK
+T.C. No.: 92485
+Admission No.: 4591
+Class: VII
+Father Name: M.RAHESH
+Mother Name: M.SUBASHINI
+Date of Birth: 12/04/2012
+
+Name: R.S.MEGHA
+T.C. No.: 92484
+Admission No.: 4592
+Class: II
+Father Name: M.RAHESH
+Mother Name: M.SUBASHINI
+Date of Birth: 16/08/2016
+
+Name: T.JAY SHREENIDHI
+T.C. No.: 92483
+Admission No.: 4592
+Class: VI
+Father Name: R.THIYAGARAJAN
+Mother Name: S.PREETHI
+Date of Birth: 02/01/2014
+
+Name: RUTHALA GAGAN DHANUSH
+T.C. No.: 92481
+Admission No.: 4136
+Class: XI
+Father Name: SANYASI PATRUDU RUTALLA
+Mother Name: KALA SATYASRI
+Date of Birth: 02/04/2008
+
+Name: H.MUKUNTHAN
+T.C. No.: 73479
+Admission No.: 3442
+Class: VIII
+Father Name: R.HIGHCOURT MAHARAJA
+Mother Name: H.VENKATESHWARI
+Date of Birth: 24/03/2012
+
+Name: V. Sivakshi
+T.C. No.: 73473
+Admission No.: 4343
+Class: III
+Father Name: Vayana Perumal
+Mother Name: Nithya
+Date of Birth: 19/01/2015
+
+Name: V.Sivanujan
+T.C. No.: 73477
+Admission No.: 4442
+Class: 1
+Father Name: Vayana Perumal
+Mother Name: Nithya
+Date of Birth: 28/11/201
