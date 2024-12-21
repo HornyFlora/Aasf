@@ -1708,3 +1708,42 @@ Name: Mrs.Gayathri VS
 Designation: TGT Science Secondary
 
 Library Images - (https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024061761-1-867x1024.jpeg, https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024061722-1-1024x768.jpeg, https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024061776-768x1024.jpeg)
+
+Discipline - https://vijayanarayanam.kvs.ac.in/discipline/:
+
+Discipline Committee
+
+Name: Mr.Mukesh
+Designation: PGT Chemistry- I/c
+
+Name: Mr. Apollo Arul Raj
+Designation: PGT English- Assoc. I/c
+
+Name: Mr.Victor Kumar
+Designation: TGT Work Experience
+
+Name: Mrs. Jyotisana Parmar
+Designation: PRT HM I\c
+
+Name: Mr. komal kumar
+Designation: Class Teacher 1A
+
+Name: Mr. Lankeshwar bhatria
+Designation: Class Teacher 1B
+
+Name: Mrs. vincy Mary
+Designation: Computer Instructor
+
+Any other - https://vijayanarayanam.kvs.ac.in/any-other/:
+
+TimeTable Committee
+
+Name: Mrs.Praba jayaprakash
+Designation: PGT Maths overall I\c
+
+Name: Mr.Vasudev nandhan
+Designation: TGT Maths
+
+Name: Mrs.Kalyani Kalpana
+Designation: TGT Maths
+]
