@@ -988,3 +988,188 @@ Category 4: 0
 Category 5: 59
 Category 6: 0
 Total: 71
+
+Class & Social Category Wise Enrolment Position - https://vijayanarayanam.kvs.ac.in/class-social-category-wise-enrolment-position/:
+
+CLASS_ENROLLMENT_DATA:
+
+Class: XII-Science
+Authorised Capacity: 40
+Number of Section/s: 1
+Total Students Enrolled: 38
+Boys: 15
+Girls: 23
+S. C.: 7
+S. T.: 0
+O. B. C.: 17
+GEN: 2
+P. H.: 0
+GEN Minority [Inc. Muslim]: 12
+Last Updated: 12/06/2024
+
+Class: XI-Science
+Authorised Capacity: 40
+Number of Section/s: 1
+Total Students Enrolled: 40
+Boys: 22
+Girls: 18
+S. C.: 6
+S. T.: 0
+O. B. C.: 29
+GEN: 5
+P. H.: 0
+GEN Minority [Inc. Muslim]: 0
+Last Updated: 12/06/2024
+
+Class: X
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 73
+Boys: 36
+Girls: 37
+S. C.: 10
+S. T.: 0
+O. B. C.: 24
+GEN: 21
+P. H.: 2
+GEN Minority [Inc. Muslim]: 16
+Last Updated: 12/06/2024
+
+Class: IX
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 72
+Boys: 47
+Girls: 25
+S. C.: 14
+S. T.: 0
+O. B. C.: 20
+GEN: 23
+P. H.: 0
+GEN Minority [Inc. Muslim]: 15
+Last Updated: 12/06/2024
+
+Class: VIII
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 75
+Boys: 35
+Girls: 40
+S. C.: 19
+S. T.: 0
+O. B. C.: 36
+GEN: 19
+P. H.: 1
+GEN Minority [Inc. Muslim]: 0
+Last Updated: 12/06/2024
+
+Class: VII
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 74
+Boys: 42
+Girls: 32
+S. C.: 17
+S. T.: 1
+O. B. C.: 26
+GEN: 22
+P. H.: 0
+GEN Minority [Inc. Muslim]: 8
+Last Updated: 12/06/2024
+
+Class: VI
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 79
+Boys: 40
+Girls: 39
+S. C.: 20
+S. T.: 2
+O. B. C.: 20
+GEN: 22
+P. H.: 0
+GEN Minority [Inc. Muslim]: 15
+Last Updated: 12/06/2024
+
+Class: V
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 72
+Boys: 37
+Girls: 35
+S. C.: 14
+S. T.: 1
+O. B. C.: 29
+GEN: 22
+P. H.: 1
+GEN Minority [Inc. Muslim]: 5
+Last Updated: 12/06/2024
+
+Class: IV
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 73
+Boys: 34
+Girls: 39
+S. C.: 15
+S. T.: 0
+O. B. C.: 21
+GEN: 27
+P. H.: 0
+GEN Minority [Inc. Muslim]: 10
+Last Updated: 12/06/2024
+
+Class: III
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 71
+Boys: 35
+Girls: 36
+S. C.: 14
+S. T.: 0
+O. B. C.: 50
+GEN: 5
+P. H.: 1
+GEN Minority [Inc. Muslim]: 1
+Last Updated: 12/06/2024
+
+Class: II
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 72
+Boys: 41
+Girls: 31
+S. C.: 17
+S. T.: 2
+O. B. C.: 37
+GEN: 14
+P. H.: 0
+GEN Minority [Inc. Muslim]: 2
+Last Updated: 08/06/2024
+
+Class: I
+Authorised Capacity: 64
+Number of Section/s: 2
+Total Students Enrolled: 61
+Boys: 38
+Girls: 23
+S. C.: 10
+S. T.: 2
+O. B. C.: 39
+GEN: 10
+P. H.: 0
+GEN Minority [Inc. Muslim]: 0
+Last Updated: 08/06/2024
+
+TOTAL_SUM:
+Authorised Capacity: 720
+Number of Section/s: 22
+Total Students Enrolled: 800
+Boys: 422
+Girls: 378
+S. C.: 163
+S. T.: 8
+O. B. C.: 348
+GEN: 192
+P. H.: 5
+GEN Minority [Inc. Muslim]: 84
