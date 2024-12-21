@@ -1173,3 +1173,94 @@ O. B. C.: 348
 GEN: 192
 P. H.: 5
 GEN Minority [Inc. Muslim]: 84
+
+Calendar of Activities - https://vijayanarayanam.kvs.ac.in/calendar-of-activities/:
+
+Ongoing: No Events Found
+Upcoming: No Events Found
+Past: International Yoga Day - 21 Jun, 2024 - 21 Jun, 2024
+KV Vijayanarayanam
+
+Innovations - https://vijayanarayanam.kvs.ac.in/innovations/:
+
+Photo Gallery:
+Pustakopahar = (https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/bfi_thumb/2024061968-qpw86mbf4ueavwt7pftip1jte95qh9rbrvscwqvqhy.jpg, https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/bfi_thumb/2024061982-qpw85v23mnczj7wt4m1c6qfg62w3a1r404v9zq05ie.jpg, https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/bfi_thumb/2024061953-2-qpw855ogi4e8tqxo8t2eteu04od6i7ycwn96191s6e.jpg, https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/bfi_thumb/2024061948-1-qpw84lxuiln81xqcg2j8v1tbnl2h0krztxjyyfv1t2.jpg)
+
+Photo Gallery - https://vijayanarayanam.kvs.ac.in/photo-gallery/:
+
+International Yoga Day 2024:
+
+Photos available in the album : 6
+https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024062192-scaled.jpeg
+https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024062116-scaled.jpeg
+https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024062132-scaled.jpeg
+https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024062199-scaled.jpeg
+https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024062128-scaled.jpeg
+https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024062115-scaled.jpeg
+
+World Thinking day 2024:
+
+Photos available in the album : 1
+https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/05/2024052420-scaled.jpg
+
+Video Gallery - https://vijayanarayanam.kvs.ac.in/video-gallery/:
+
+PM SHRI Activities:
+https://www.youtube.com/embed/zhseHUSAQbY
+
+Online Fee - https://epay.unionbankofindia.co.in/kvfee/:
+
+Kendriya Vidyalaya School Fee Payment System
+
+The Kendriya Vidyalaya school system has implemented a fully digital fee payment process. All fee payments are now conducted exclusively through our online portal, eliminating the need for cash transactions or in-person payments at the school office.
+
+Primary Payment Method:
+Fees are paid through the official website: https://epay.unionbankofindia.co.in/kvfee/
+This portal is a secure platform provided in partnership with Union Bank of India, ensuring safe and efficient transactions for all school-related payments.
+
+Fee Payment Schedule:
+Fees are paid in 4 quarters for each academic year:
+- Quarter-1: May - June
+- Quarter-2: July - September
+- Quarter-3: October - December
+- Quarter-4: January - March
+
+Payment Process:
+1. New users must register on the portal using their Student ID, Date of Birth, Mobile Number, and Email ID.
+2. Existing users can log in using their User ID and Password.
+3. Log in to the portal using registered credentials.
+4. Enter the Student ID and Date of Birth for verification.
+5. The system will display the fees due for the current period.
+6. Select the fees to be paid and proceed to the payment gateway.
+7. Choose from available online payment methods (Net Banking, Credit Card, Debit Card, UPI).
+8. Complete the transaction as directed.
+9. A digital receipt will be generated upon successful payment.
+
+Payment Options:
+- Debit Card
+- Credit Card
+- UPI
+- Net Banking
+
+Alternative Payment Method (Currently Not Stable):
+GPay offers a feature named "Kendriya Vidyalaya Sangathan" under Bharat BillPay. To use this:
+1. Enter Student ID
+2. Provide Date of Birth
+3. Add Nickname (optional)
+Note: This feature is currently not stable. We advise using the official website method for payments.
+
+Downloading Receipts / Challans:
+You can download your receipt or challan at any time by following these steps:
+1. Visit the official website: https://epay.unionbankofindia.co.in/kvfee/
+2. Enter your unique Student ID
+3. Provide your Date of Birth
+4. Solve the CAPTCHA
+5. Click on the download option for your receipt/challan
+
+Important Notes:
+- The school does not accept cash, checks, or any form of offline payment for fees.
+- All financial transactions are processed and recorded electronically.
+- Parents are advised to keep their login credentials confidential and secure.
+- Regular reminders for fee payments will be sent via SMS and email to registered contact details.
+- We strongly recommend using the official website for all fee payments due to its stability and security.
+- For further information and detailed instructions, please refer to the official website.
