@@ -8,13 +8,9 @@ An autonomous body under the Ministry of Education, Government of India
 
 KV-Logo - https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2023/04/2023042118.svg
 
-422
-Boys & 378
-Girls - https://vijayanarayanam.kvs.ac.in/class-social-category-wise-enrolment-position/
+422 Boys & 378 Girls - https://vijayanarayanam.kvs.ac.in/class-social-category-wise-enrolment-position/
 
-
-30
-Employees: Teaching: 29
+30 Employees: Teaching: 29
 Non-Teaching: 1 - https://vijayanarayanam.kvs.ac.in/staff-details/
 
 https://kvsangathan.nic.in/en/kvs-vision-and-mission/:-
@@ -33,20 +29,20 @@ Mission:
 • To provide, establish, endow, maintain, control and manage schools, hereinafter called the ‘Kendriya Vidyalaya’ for the children of transferable employees of the Government of India, floating population and others including those living in remote and undeveloped locations of the country and to do all acts and things necessary for providing a conducive atmosphere in schools.
 
 Salient Features:
-Common text-books and bilingual medium of instruction for all Kendriya Vidyalayas.
+• Common text-books and bilingual medium of instruction for all Kendriya Vidyalayas.
 
-All Kendriya Vidyalayas are affiliated to the Central Board of Secondary Education.
+• All Kendriya Vidyalayas are affiliated to the Central Board of Secondary Education.
 
-All Kendriya Vidyalayas are co-educational, composite schools.
+• All Kendriya Vidyalayas are co-educational, composite schools.
 
-Sanskrit is taught in class VI – VIII.
+• Sanskrit is taught in class VI – VIII.
 
-The quality of teaching is kept high by an appropriate teacher-pupil ratio.
+• The quality of teaching is kept high by an appropriate teacher-pupil ratio.
 
-No tuition fee for boys up to class VIII, girls up to class XII and SC/ST students and children of KVS employees.
-
+• No tuition fee for boys up to class VIII, girls up to class XII and SC/ST students and children of KVS employees.
 
 Genesis - https://vijayanarayanam.kvs.ac.in/genesis/:
+
 This Vidyalaya was established in July 1989 in a humble scale starting from class I to V. It comes under defence sector – INS Kattabomman, Naval base Post Office, South Vijayanarayanam, Nanguneri Taluk, Tirunelveli District , Tamil Nadu. The sponsoring Agency is Defence and this Naval Base is the second largest signaling station in Asia. The Vidyalaya was functioning in the building provided by the defence authorities in the Naval Base from 1989 to 2001. From 17-­08-2001 the Vidyalaya started functioning in KVS owned new building built at a cost of 2.33crores with 21 staff Qrs.
 
 The first batch of students of X Board exam appeared in March 1995.Twenty students appeared for X Board Exam in March 2007. This Vidyalaya was sanctioned XI science stream in July 2005.The subjects offered are English, Maths, Physics, Chemistry, Biology and Computer Science . Now we have classes up to XII with two section in primary,Two section in secondary and one section in Senior secondary. One more section has been sanctioned in class III to V for the academic year 2009-2010.
@@ -63,28 +59,28 @@ PM SHRI KV VNM believes in imparting knowledge/values and nurturing the talent, 
 
 Mission:
 
-As per KVS directions, catering to the educational needs of children of transferable Central Government employees including Defence and Para-military personnel by providing a common programme of education;
+• As per KVS directions, catering to the educational needs of children of transferable Central Government employees including Defence and Para-military personnel by providing a common programme of education;
 
-To pursue excellence and set the pace in the field of school education;
+• To pursue excellence and set the pace in the field of school education;
 
-To initiate and promote experimentation and innovations in education in collaboration with other bodies like the Central Board of Secondary Education (CBSE) and the National Council of Educational Research and Training (NCERT) etc.
+• To initiate and promote experimentation and innovations in education in collaboration with other bodies like the Central Board of Secondary Education (CBSE) and the National Council of Educational Research and Training (NCERT) etc.
 
-To develop the spirit of national integration and create a sense of “Indianness” among children.
+• To develop the spirit of national integration and create a sense of “Indianness” among children.
 
-To provide, establish, endow, maintain, control and manage school for the children of transferable employees of the Government of India, floating population and others including those living in remote and undeveloped locations of the country and to do all acts and things necessary for providing a conducive atmosphere in school.
+• To provide, establish, endow, maintain, control and manage school for the children of transferable employees of the Government of India, floating population and others including those living in remote and undeveloped locations of the country and to do all acts and things necessary for providing a conducive atmosphere in school.
 
 Salient Features:
 
-Common text-books and bilingual medium of instruction.
+• Common text-books and bilingual medium of instruction.
 
-Affiliated to the Central Board of Secondary Education.
+• Affiliated to the Central Board of Secondary Education.
 Co-educational, composite school.
 
-Sanskrit is taught in class VI – VIII.
+• Sanskrit is taught in class VI – VIII.
 
-The quality of teaching is kept high by an appropriate teacher-pupil ratio.
+• The quality of teaching is kept high by an appropriate teacher-pupil ratio.
 
-No tuition fee for boys up to class VIII, girls up to class XII and SC/ST students and children of KVS employees.
+• No tuition fee for boys up to class VIII, girls up to class XII and SC/ST students and children of KVS employees.
 
 Message’s From:
 
@@ -204,6 +200,16 @@ Fee: Rs 150.00
 Sr.No: 8
 Title: Vidyalaya Vikas Nidhi (Classes I – XII)
 Fee: Rs 500.00
+
+Result Analysis - https://vijayanarayanam.kvs.ac.in/result-analysis/:
+
+Documents Available : 1
+
+Name: pdf document Result Analysis
+Publish On: 06/16/24
+Link: https://cdnbbsr.s3waas.gov.in/s3kv0252e06722e50b20dae5701e6a57fb/uploads/2024/06/2024061617.pdf
+
+The Data In The Pdf:-
 
 PM SHRI KENDRIYA VIDYALAYA VIJAYANARAYANAM
 ANALYSIS OF CBSE RESULT(AISSE & AISSCE) 2023-2024
