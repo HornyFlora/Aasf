@@ -1,7 +1,2 @@
-aiohttp
-datetime
 pyrogram 
 tgcrypto
-motor
-pymongo
-shortuuid
