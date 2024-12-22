@@ -1748,62 +1748,62 @@ Designation: TGT Maths
 
 Site Map Of https://vijayanarayanam.kvs.ac.in/- https://vijayanarayanam.kvs.ac.in/sitemap/:
 
-Home -https://vijayanarayanam.kvs.ac.in/
+Home -https://vijayanarayanam.kvs.ac.in/ - Last Updated: Nov 20, 2024
 
 About Us 
-├── About KV - https://vijayanarayanam.kvs.ac.in/about-kv/
-└── Contact Us - https://vijayanarayanam.kvs.ac.in/contact-us/
+├── About KV - https://vijayanarayanam.kvs.ac.in/about-kv/ - Last Updated: May 28, 2024
+└── Contact Us - https://vijayanarayanam.kvs.ac.in/contact-us/ - Last Updated: May 21, 2024
 
 Academics
-├── Admission Details - https://vijayanarayanam.kvs.ac.in/admission-details/
-├── Fee Structure - https://vijayanarayanam.kvs.ac.in/fee-structure/
-├── Result Analysis - https://vijayanarayanam.kvs.ac.in/result-analysis/
-├── Student Achiever - https://vijayanarayanam.kvs.ac.in/student-achiever/
-├── Teacher Achiever - https://vijayanarayanam.kvs.ac.in/teacher-achiever/
-└── CBSE Mandatory Public Disclosure - https://vijayanarayanam.kvs.ac.in/cbse-mandatory-public-disclosure/
+├── Admission Details - https://vijayanarayanam.kvs.ac.in/admission-details/ - Last Updated: Mar 21, 2024
+├── Fee Structure - https://vijayanarayanam.kvs.ac.in/fee-structure/ - Last Updated: Sep 05, 2024
+├── Result Analysis - https://vijayanarayanam.kvs.ac.in/result-analysis/ - Last Updated: Mar 21, 2024
+├── Student Achiever - https://vijayanarayanam.kvs.ac.in/student-achiever/ - Last Updated: Jun 16, 2024
+├── Teacher Achiever - https://vijayanarayanam.kvs.ac.in/teacher-achiever/ - Last Updated: Aug 14, 2024
+└── CBSE Mandatory Public Disclosure - https://vijayanarayanam.kvs.ac.in/cbse-mandatory-public-disclosure/ - Last Updated: May 07, 2024
 
 Administration
-├── Vidyalaya Management Committee - https://vijayanarayanam.kvs.ac.in/vidyalaya-mangement-committee/
-├── Staff Details -https://vijayanarayanam.kvs.ac.in/staff-details/
-├── Teacher Vacancy - https://vijayanarayanam.kvs.ac.in/teacher-vacancy/
-├── Vidyalaya Plan - https://vijayanarayanam.kvs.ac.in/vidyalaya-plan/
+├── Vidyalaya Management Committee - https://vijayanarayanam.kvs.ac.in/vidyalaya-mangement-committee/ - Last Updated: Jun 08, 2024
+├── Staff Details -https://vijayanarayanam.kvs.ac.in/staff-details/ - Last Updated: Oct 18, 2024
+├── Teacher Vacancy - https://vijayanarayanam.kvs.ac.in/teacher-vacancy/ - Last Updated: Mar 21, 2024
+├── Vidyalaya Plan - https://vijayanarayanam.kvs.ac.in/vidyalaya-plan/ - Last Updated: Jun 19, 2024
 └── Vidyalaya Level Committee
-    ├── Admission - https://vijayanarayanam.kvs.ac.in/admission/
-    ├── Examination - https://vijayanarayanam.kvs.ac.in/examination/
-    ├── CCA - https://vijayanarayanam.kvs.ac.in/cca/
-    ├── Cleanliness - https://vijayanarayanam.kvs.ac.in/cleanliness/
-    ├── Library - https://vijayanarayanam.kvs.ac.in/library/
-    ├── Discipline - https://vijayanarayanam.kvs.ac.in/discipline/
-    └── Any other - https://vijayanarayanam.kvs.ac.in/any-other/
-├── RTI APIO - https://vijayanarayanam.kvs.ac.in/rti-apio/
-├── Monthly Remuneration/Salary of Staff - https://vijayanarayanam.kvs.ac.in/monthly-remuneration-salary-of-staff/
-└── Works - https://vijayanarayanam.kvs.ac.in/works/
+    ├── Admission - https://vijayanarayanam.kvs.ac.in/admission/ - Last Updated: Jun 17, 2024
+    ├── Examination - https://vijayanarayanam.kvs.ac.in/examination/ - Last Updated: Jun 16, 2024
+    ├── CCA - https://vijayanarayanam.kvs.ac.in/cca/ - Last Updated: Jun 17, 2024
+    ├── Cleanliness - https://vijayanarayanam.kvs.ac.in/cleanliness/ - Last Updated: Jun 17, 2024
+    ├── Library - https://vijayanarayanam.kvs.ac.in/library/ - Last Updated: Jun 19, 2024
+    ├── Discipline - https://vijayanarayanam.kvs.ac.in/discipline/ - Last Updated: Jun 19, 2024
+    └── Any other - https://vijayanarayanam.kvs.ac.in/any-other/ - Last Updated: Jun 19, 2024
+├── RTI APIO - https://vijayanarayanam.kvs.ac.in/rti-apio/ - Last Updated: Oct 20, 2024
+├── Monthly Remuneration/Salary of Staff - https://vijayanarayanam.kvs.ac.in/monthly-remuneration-salary-of-staff/ - Last Updated: Mar 21, 2024
+└── Works - https://vijayanarayanam.kvs.ac.in/works/ - Last Updated: Jun 19, 2024
 
 Enrolment Statistics
-├── Class & Social Category Wise Enrolment Position - https://vijayanarayanam.kvs.ac.in/class-social-category-wise-enrolment-position/
-├── Admission Category Wise Enrolment Position - https://vijayanarayanam.kvs.ac.in/admission-category-wise-enrolment-position/
-├── TC issued - https://vijayanarayanam.kvs.ac.in/tc-issued/
-└── Student Vacancy - https://vijayanarayanam.kvs.ac.in/student-vacancy/
+├── Class & Social Category Wise Enrolment Position - https://vijayanarayanam.kvs.ac.in/class-social-category-wise-enrolment-position/ - Last Updated: Jun 08, 2024
+├── Admission Category Wise Enrolment Position - https://vijayanarayanam.kvs.ac.in/admission-category-wise-enrolment-position/ - Last Updated: Jun 19, 2024
+├── TC issued - https://vijayanarayanam.kvs.ac.in/tc-issued/ - Last Updated: Jun 19, 2024
+└── Student Vacancy - https://vijayanarayanam.kvs.ac.in/student-vacancy/ - Last Updated: Mar 21, 2024
 
 Activities
-├── Calendar of Activities - https://vijayanarayanam.kvs.ac.in/calendar-of-activities/
-└── Innovations - https://vijayanarayanam.kvs.ac.in/innovations/
+├── Calendar of Activities - https://vijayanarayanam.kvs.ac.in/calendar-of-activities/ - Last Updated: Mar 21, 2024
+└── Innovations - https://vijayanarayanam.kvs.ac.in/innovations/ - Last Updated: Jun 19, 2024
 
 Gallery
-├── Photo Gallery - https://vijayanarayanam.kvs.ac.in/photo-gallery/
-└── Video Gallery - https://vijayanarayanam.kvs.ac.in/video-gallery/
+├── Photo Gallery - https://vijayanarayanam.kvs.ac.in/photo-gallery/ - Last Updated: Mar 21, 2024
+└── Video Gallery - https://vijayanarayanam.kvs.ac.in/video-gallery/ - Last Updated: Mar 21, 2024
 
 Online Fee - https://epay.unionbankofindia.co.in/kvfee/
 Alumni - https://alumni.kvsangathan.co.in/
 
 FAQs
-├── Admission Guidelines - https://vijayanarayanam.kvs.ac.in/admission-guidelines/
-├── Transfer Policy - https://vijayanarayanam.kvs.ac.in/transfer-policy/
-├── Contractual Staff - https://vijayanarayanam.kvs.ac.in/contractual-staff/
-└── RTI - https://vijayanarayanam.kvs.ac.in/rti/
+├── Admission Guidelines - https://vijayanarayanam.kvs.ac.in/admission-guidelines/ - Last Updated: Jul 09, 2024
+├── Transfer Policy - https://vijayanarayanam.kvs.ac.in/transfer-policy/ - Last Updated: Jul 09, 2024
+├── Contractual Staff - https://vijayanarayanam.kvs.ac.in/contractual-staff/ - Last Updated: Jul 09, 2024
+└── RTI - https://vijayanarayanam.kvs.ac.in/rti/ - Last Updated: Jul 09, 2024
 
 Footer Menu
-├── Feedback - https://vijayanarayanam.kvs.ac.in/feedback/
-├── Website Policies - https://vijayanarayanam.kvs.ac.in/website-policies/
-├── Contact Us - https://vijayanarayanam.kvs.ac.in/contact-us/
-└── Help - https://vijayanarayanam.kvs.ac.in/help/
+├── Feedback - https://vijayanarayanam.kvs.ac.in/feedback/ - Last Updated: Nov 18, 2019
+├── Website Policies - https://vijayanarayanam.kvs.ac.in/website-policies/ - Last Updated: Oct 17, 2024
+├── Contact Us - https://vijayanarayanam.kvs.ac.in/contact-us/ - Last Updated: May 21, 2024
+└── Help - https://vijayanarayanam.kvs.ac.in/help/ - Last Updated: Mar 21, 2024
