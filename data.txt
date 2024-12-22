@@ -1,6 +1,4 @@
 Home - https://vijayanarayanam.kvs.ac.in/:
-Last Updated: Nov 20, 2024
-
 शिक्षा मंत्रालय - https://www.education.gov.in/hi
 MINISTRY OF EDUCATION - https://www.education.gov.in/
 
@@ -1747,3 +1745,65 @@ Designation: TGT Maths
 Name: Mrs.Kalyani Kalpana
 Designation: TGT Maths
 ]
+
+Site Map Of https://vijayanarayanam.kvs.ac.in/- https://vijayanarayanam.kvs.ac.in/sitemap/:
+
+Home -https://vijayanarayanam.kvs.ac.in/
+
+About Us 
+├── About KV - https://vijayanarayanam.kvs.ac.in/about-kv/
+└── Contact Us - https://vijayanarayanam.kvs.ac.in/contact-us/
+
+Academics
+├── Admission Details - https://vijayanarayanam.kvs.ac.in/admission-details/
+├── Fee Structure - https://vijayanarayanam.kvs.ac.in/fee-structure/
+├── Result Analysis - https://vijayanarayanam.kvs.ac.in/result-analysis/
+├── Student Achiever - https://vijayanarayanam.kvs.ac.in/student-achiever/
+├── Teacher Achiever - https://vijayanarayanam.kvs.ac.in/teacher-achiever/
+└── CBSE Mandatory Public Disclosure - https://vijayanarayanam.kvs.ac.in/cbse-mandatory-public-disclosure/
+
+Administration
+├── Vidyalaya Management Committee - https://vijayanarayanam.kvs.ac.in/vidyalaya-mangement-committee/
+├── Staff Details -https://vijayanarayanam.kvs.ac.in/staff-details/
+├── Teacher Vacancy - https://vijayanarayanam.kvs.ac.in/teacher-vacancy/
+├── Vidyalaya Plan - https://vijayanarayanam.kvs.ac.in/vidyalaya-plan/
+└── Vidyalaya Level Committee
+    ├── Admission - https://vijayanarayanam.kvs.ac.in/admission/
+    ├── Examination - https://vijayanarayanam.kvs.ac.in/examination/
+    ├── CCA - https://vijayanarayanam.kvs.ac.in/cca/
+    ├── Cleanliness - https://vijayanarayanam.kvs.ac.in/cleanliness/
+    ├── Library - https://vijayanarayanam.kvs.ac.in/library/
+    ├── Discipline - https://vijayanarayanam.kvs.ac.in/discipline/
+    └── Any other - https://vijayanarayanam.kvs.ac.in/any-other/
+├── RTI APIO - https://vijayanarayanam.kvs.ac.in/rti-apio/
+├── Monthly Remuneration/Salary of Staff - https://vijayanarayanam.kvs.ac.in/monthly-remuneration-salary-of-staff/
+└── Works - https://vijayanarayanam.kvs.ac.in/works/
+
+Enrolment Statistics
+├── Class & Social Category Wise Enrolment Position - https://vijayanarayanam.kvs.ac.in/class-social-category-wise-enrolment-position/
+├── Admission Category Wise Enrolment Position - https://vijayanarayanam.kvs.ac.in/admission-category-wise-enrolment-position/
+├── TC issued - https://vijayanarayanam.kvs.ac.in/tc-issued/
+└── Student Vacancy - https://vijayanarayanam.kvs.ac.in/student-vacancy/
+
+Activities
+├── Calendar of Activities - https://vijayanarayanam.kvs.ac.in/calendar-of-activities/
+└── Innovations - https://vijayanarayanam.kvs.ac.in/innovations/
+
+Gallery
+├── Photo Gallery - https://vijayanarayanam.kvs.ac.in/photo-gallery/
+└── Video Gallery - https://vijayanarayanam.kvs.ac.in/video-gallery/
+
+Online Fee - https://epay.unionbankofindia.co.in/kvfee/
+Alumni - https://alumni.kvsangathan.co.in/
+
+FAQs
+├── Admission Guidelines - https://vijayanarayanam.kvs.ac.in/admission-guidelines/
+├── Transfer Policy - https://vijayanarayanam.kvs.ac.in/transfer-policy/
+├── Contractual Staff - https://vijayanarayanam.kvs.ac.in/contractual-staff/
+└── RTI - https://vijayanarayanam.kvs.ac.in/rti/
+
+Footer Menu
+├── Feedback - https://vijayanarayanam.kvs.ac.in/feedback/
+├── Website Policies - https://vijayanarayanam.kvs.ac.in/website-policies/
+├── Contact Us - https://vijayanarayanam.kvs.ac.in/contact-us/
+└── Help - https://vijayanarayanam.kvs.ac.in/help/
