@@ -1746,7 +1746,7 @@ Name: Mrs.Kalyani Kalpana
 Designation: TGT Maths
 ]
 
-Site Map Of https://vijayanarayanam.kvs.ac.in/- https://vijayanarayanam.kvs.ac.in/sitemap/:
+Site Map Of https://vijayanarayanam.kvs.ac.in/- https://vijayanarayanam.kvs.ac.in/sitemap/ - Last Updated: Dec 31, 2019:
 
 Home -https://vijayanarayanam.kvs.ac.in/ - Last Updated: Nov 20, 2024
 
@@ -1807,3 +1807,11 @@ Footer Menu
 ├── Website Policies - https://vijayanarayanam.kvs.ac.in/website-policies/ - Last Updated: Oct 17, 2024
 ├── Contact Us - https://vijayanarayanam.kvs.ac.in/contact-us/ - Last Updated: May 21, 2024
 └── Help - https://vijayanarayanam.kvs.ac.in/help/ - Last Updated: Mar 21, 2024
+
+All Contents Owned by PM SHRI Kendriya Vidyalaya Vijayanarayanam
+
+Developed and hosted by National Informatics Centre - http://www.nic.in/, Ministry of Electronics & Information Technology - http://meity.gov.in/, Government of India
+
+https://s3waas.gov.in/ - https://vijayanarayanam.kvs.ac.in/wp-content/themes/sdo-theme/assets/images/s3waas.png
+http://www.nic.in/ - https://vijayanarayanam.kvs.ac.in/wp-content/themes/sdo-theme/assets/images/nicLogo.png
+https://www.education.gov.in/ - https://vijayanarayanam.kvs.ac.in/wp-content/themes/sdo-theme/assets/images/MOE.png
